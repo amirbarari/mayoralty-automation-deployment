@@ -1,1 +1,0 @@
-import{$b as t,ac as p,zb as e,zc as s}from"./chunk-PPU4QFJU.js";var a=class o{static \u0275fac=function(n){return new(n||o)};static \u0275cmp=e({type:o,selectors:[["app-not-found"]],decls:2,vars:0,template:function(n,m){n&1&&(t(0,"p"),s(1,"not-found works!"),p())},encapsulation:2})};export{a as NotFoundComponent};
